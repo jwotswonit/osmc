@@ -1,9 +1,4 @@
-PRETTY_NAME="Open Source Media Center"
-NAME="OSMC"
-VERSION="October 2015"
-VERSION_ID="2015.10-2"
-ID=osmc
-ID_LIKE=debian
+NAME="OPEN EMBEDDED LINUS ENTERTAINMENT CENTER"
 
 ANSI_COLOR="1;31"
 HOME_URL="http://www.osmc.tv"
